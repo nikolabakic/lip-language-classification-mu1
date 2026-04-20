@@ -1,0 +1,15 @@
+# Dataset (large, not tracked)
+speakers/
+
+# Saved model artifacts
+*.pkl
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
